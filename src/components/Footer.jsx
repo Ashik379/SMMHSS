@@ -52,9 +52,7 @@ const Footer = () => {
           {/* Column 1: Brand & About */}
           <div className="lg:col-span-4">
             <Link to="/" className="flex items-center gap-4 mb-6 group inline-flex focus-visible:ring-4 focus-visible:ring-primary/30 outline-none rounded-xl p-1" aria-label="Go to Homepage">
-              <div className="w-14 h-14 rounded-2xl bg-white flex items-center justify-center shadow-lg border border-white/10 group-hover:scale-105 transition-transform duration-300 overflow-hidden p-1">
-                <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="w-full h-full object-contain" />
-              </div>
+              <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="h-20 w-auto object-contain group-hover:scale-105 transition-transform duration-300 drop-shadow-md" />
               <div>
                 <h3 className="font-bold text-xl tracking-tight text-white group-hover:text-secondary transition-colors">{schoolInfo.shortName}</h3>
                 <p className="text-sm font-medium text-secondary">A Legacy of Excellence</p>

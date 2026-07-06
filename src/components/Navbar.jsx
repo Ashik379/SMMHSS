@@ -64,9 +64,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3 group focus-visible:ring-4 focus-visible:ring-primary/30 outline-none rounded-xl" aria-label="Go to Homepage">
-              <div className="w-12 h-12 rounded-xl bg-white flex items-center justify-center shadow-md shadow-primary/20 group-hover:scale-105 transition-transform duration-300 overflow-hidden p-1">
-                <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="w-full h-full object-contain" />
-              </div>
+              <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="h-16 w-auto object-contain group-hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
               <div className="hidden sm:block">
                 <h1 className={`text-lg font-bold leading-tight transition-colors duration-300 ${
                   showTransparent ? 'text-white' : 'text-text'
@@ -178,9 +176,7 @@ const Navbar = () => {
               {/* Header */}
               <div className="flex items-center justify-between p-6 border-b border-gray-100">
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shadow-sm overflow-hidden p-1">
-                    <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="w-full h-full object-contain" />
-                  </div>
+                  <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="h-12 w-auto object-contain drop-shadow-sm" />
                   <h2 className="font-bold text-text text-lg">SMMHSS</h2>
                 </div>
                 <button
