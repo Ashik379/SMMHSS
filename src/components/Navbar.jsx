@@ -65,13 +65,13 @@ const Navbar = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3 group focus-visible:ring-4 focus-visible:ring-primary/30 outline-none rounded-xl" aria-label="Go to Homepage">
               <img src="/assets/images/logo/logo.png" alt="SMMHSS Logo" className="h-16 w-auto object-contain group-hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-              <div className="hidden sm:block">
-                <h1 className={`text-lg font-bold leading-tight transition-colors duration-300 ${
+              <div className="block">
+                <h1 className={`text-base sm:text-lg font-bold leading-tight transition-colors duration-300 ${
                   showTransparent ? 'text-white' : 'text-text'
                 }`}>
                   SMMHSS
                 </h1>
-                <p className={`text-xs font-medium tracking-wide transition-colors duration-300 ${
+                <p className={`text-[10px] sm:text-xs font-medium tracking-wide transition-colors duration-300 ${
                   showTransparent ? 'text-white/80' : 'text-primary'
                 }`}>
                   Excellence in Education
