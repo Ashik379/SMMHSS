@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "role": "Parent of Class X Student",
+    "content": "SMMHSS has completely transformed my child. The focus on holistic development, not just academics, sets it apart from any other school in Kushinagar. The teachers are incredibly supportive and approachable.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "role": "Alumni (Batch of 2018)",
+    "content": "The foundation I received at SMMHSS helped me excel in my engineering entrance exams. The science labs and the dedicated faculty ensure that students genuinely understand concepts rather than just memorizing them.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Amit Singh",
+    "role": "Parent of Class V Student",
+    "content": "We moved here two years ago and getting admission into SMMHSS was our best decision. The campus is safe, the digital classrooms are fantastic, and the discipline they instil in kids is highly commendable.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "role": "Parent of Class XII Student",
+    "content": "The career guidance and individual attention given to board year students is exceptional. They don't just teach the syllabus, they prepare students for the real world.",
+    "rating": 4
+  }
+]

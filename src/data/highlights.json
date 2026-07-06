@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "100% Board Results",
+    "description": "Consistent track record of exceptional performance in state board examinations.",
+    "icon": "FaAward"
+  },
+  {
+    "id": 2,
+    "title": "Smart Campus",
+    "description": "Fully Wi-Fi enabled campus with digital classrooms and CCTV surveillance.",
+    "icon": "FaDesktop"
+  },
+  {
+    "id": 3,
+    "title": "Expert Faculty",
+    "description": "Highly qualified teachers dedicated to personalized student mentoring.",
+    "icon": "FaChalkboardTeacher"
+  },
+  {
+    "id": 4,
+    "title": "Holistic Growth",
+    "description": "Equal emphasis on academics, sports, arts, and moral values.",
+    "icon": "FaLeaf"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Classrooms",
+    "description": "State-of-the-art smart classrooms equipped with digital projectors, interactive whiteboards, and audio-visual aids for an immersive learning experience.",
+    "icon": "FaChalkboardTeacher"
+  },
+  {
+    "id": 2,
+    "title": "Computer Lab",
+    "description": "Modern computer laboratory with high-speed internet connectivity and the latest hardware, enabling students to develop essential digital skills.",
+    "icon": "FaDesktop"
+  },
+  {
+    "id": 3,
+    "title": "Science Lab",
+    "description": "Well-equipped science laboratories for Physics, Chemistry, and Biology with advanced instruments for practical experiments and research.",
+    "icon": "FaFlask"
+  },
+  {
+    "id": 4,
+    "title": "Library",
+    "description": "A vast library housing thousands of books, journals, and digital resources, fostering a culture of reading and self-directed learning.",
+    "icon": "FaBookOpen"
+  },
+  {
+    "id": 5,
+    "title": "Playground",
+    "description": "Spacious playground with dedicated areas for various outdoor activities, promoting physical fitness and team spirit among students.",
+    "icon": "FaFutbol"
+  },
+  {
+    "id": 6,
+    "title": "Sports",
+    "description": "Comprehensive sports program with facilities for cricket, football, basketball, volleyball, and athletics with professional coaching.",
+    "icon": "FaTrophy"
+  },
+  {
+    "id": 7,
+    "title": "CCTV Campus",
+    "description": "Complete CCTV surveillance across the campus ensuring the safety and security of all students and staff throughout the day.",
+    "icon": "FaShieldAlt"
+  },
+  {
+    "id": 8,
+    "title": "Clean Drinking Water",
+    "description": "RO purified drinking water stations installed at multiple locations across the campus for safe and clean hydration.",
+    "icon": "FaTint"
+  },
+  {
+    "id": 9,
+    "title": "Cultural Activities",
+    "description": "Regular cultural programs, competitions, and events that nurture creativity, confidence, and artistic expression in students.",
+    "icon": "FaMusic"
+  }
+]

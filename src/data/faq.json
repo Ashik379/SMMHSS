@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What is the admission procedure for new students?",
+    "answer": "Parents must fill out the registration form available at the school office or download it from our website. Shortlisted candidates will be called for an interaction session followed by document verification. Admission is granted based on seat availability and previous academic records."
+  },
+  {
+    "id": 2,
+    "question": "What are the school timings?",
+    "answer": "For regular classes (Mon-Fri), the timings are 8:00 AM to 2:00 PM. On Saturdays, the school functions from 8:00 AM to 12:00 PM. Timings may vary slightly during winter."
+  },
+  {
+    "id": 3,
+    "question": "Does the school provide transport facilities?",
+    "answer": "Yes, we provide safe and secure bus facilities covering all major routes in and around Kaptanganj and Kushinagar. All buses are equipped with GPS tracking and trained staff."
+  },
+  {
+    "id": 4,
+    "question": "What extracurricular activities are offered?",
+    "answer": "We offer a wide range of activities including sports (cricket, football, basketball), performing arts (music, dance, drama), fine arts, debating, and various academic clubs to ensure holistic development."
+  },
+  {
+    "id": 5,
+    "question": "What is the student-to-teacher ratio?",
+    "answer": "We maintain an optimal student-to-teacher ratio of 25:1 to ensure that every student receives personalized attention and guidance from our faculty."
+  }
+]

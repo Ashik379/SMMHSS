@@ -1,0 +1,19 @@
+{
+  "name": "Shree Mahendra Mishra Higher Secondary School",
+  "shortName": "SMMHSS",
+  "location": "Sakhopar, Kaptanganj, Kushinagar",
+  "founder": "Shree Awanish Mishra",
+  "principal": "Shree Awanish Mishra",
+  "phone": "+91 900531 1002",
+  "email": "info@smmhss.edu.in",
+  "established": "our inception",
+  "description": "Shree Mahendra Mishra Higher Secondary School stands as a beacon of academic excellence in Kushinagar. We are committed to providing a transformative educational experience that empowers students to reach their full potential, fostering intellectual curiosity, moral integrity, and social responsibility.",
+  "vision": "To be a premier educational institution that fosters intellectual growth, ethical values, and holistic development, creating global citizens who contribute meaningfully to society.",
+  "mission": "To provide a dynamic learning environment that blends traditional wisdom with modern pedagogical approaches. We aim to equip every student with the critical thinking skills, resilience, and compassion needed to navigate and succeed in a rapidly changing world.",
+  "motto": "Knowledge, Integrity, Excellence",
+  "stats": {
+    "students": 500,
+    "teachers": 20,
+    "awards": 15
+  }
+}
